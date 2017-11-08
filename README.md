@@ -10,7 +10,7 @@ This represents a problem however. Two get a realistic looking ground plane the 
 
 This is not impossible but would be quite fiddly to set up. You could of course set the atmosphere up like a normal sky dome and the ground as a normal flat terrain. Then have the shader rendering into a cube map for the sky. It would take a bit of reworking the shader but that's the standard method for these sorts of things.
 
-See [home page](https://www.digital-dust.com/single-post/2017/03/17/GPU-GEMS-to-Unity-Atmospheric-scattering) for more information.
+See [home page](https://www.digital-dust.com/single-post/2017/03/17/GPU-GEMS-to-Unity-Atmospheric-scattering) for more information and unity package download.
 
 ![Atmospheric scatter from space](https://static.wixstatic.com/media/1e04d5_ec89fa9257464c8ca6c27bb9417bbca9~mv2.jpg/v1/fill/w_585,h_585,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_ec89fa9257464c8ca6c27bb9417bbca9~mv2.jpg)
 
