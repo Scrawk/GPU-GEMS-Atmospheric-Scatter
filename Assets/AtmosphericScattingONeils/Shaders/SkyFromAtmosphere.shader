@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
 // Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 
 
@@ -93,7 +95,7 @@ Shader "Atmosphere/SkyFromAtmosphere"
 				}
 			
     			v2f OUT;
-    			OUT.pos = mul(UNITY_MATRIX_MVP, v.vertex);
+    			OUT.pos = UnityObjectToClipPos(v.vertex);
     			OUT.uv = v.texcoord.xy;
     			
     			// Finally, scale the Mie and Rayleigh colors and set up the varying variables for the pixel shader

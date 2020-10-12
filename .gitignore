@@ -3,3 +3,10 @@
 ################################################################################
 
 /Temp
+/Library
+/Logs
+/obj/Debug
+/UserSettings
+/.vs/GPU-GEMS-Atmospheric-Scatter/v16/TestStore/0
+/GPU-GEMS-Atmospheric-Scatter.sln
+/Assembly-CSharp.csproj
