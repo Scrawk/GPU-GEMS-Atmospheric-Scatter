@@ -17,4 +17,11 @@ This is not impossible but would be quite fiddly to set up. You could of course 
 
 ![Atmospheric scatter sun set](./Media/AtmoScatter3.jpg)
 
+List of atmoshere projects
+
+[Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering)\
+[Brunetons-Atmospheric-Scatter](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)\
+[GPU-GEMS-Atmospheric-Scatter](https://github.com/Scrawk/GPU-GEMS-Atmospheric-Scatter)\
+[Proland-To-Unity](https://github.com/Scrawk/Proland-To-Unity)
+
 
